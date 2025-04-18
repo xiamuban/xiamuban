@@ -7,12 +7,24 @@
   </a>
 </p>
 <h1 align="center"></h1>
+
+<!--
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact"/>
+</p>
 <p align="center">
     <a href="https://github.com/xiamuban"><img src="https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true" alt="xiamu's github stats"/></a>
 </p>
-
+ -->
+ 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact"/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiamuban&hide_border=true" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiamuban&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> 
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+    </p>
 </p>
 
 
