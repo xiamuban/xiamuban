@@ -1,5 +1,10 @@
 ## 夏目 👋
 
+<p align="center">
+  <a href="https://xiamuban.github.io">
+    <img src="https://s2.loli.net/2025/04/18/9OfNYvnV5CqQaeZ.jpg" alt="Banner" width="50%">
+  </a>
+</p>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true)
