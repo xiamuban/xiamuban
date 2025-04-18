@@ -1,4 +1,4 @@
-## 夏目 👋
+## 夏目
 
 <p align="center">
   <a href="https://xiamuban.github.io">
@@ -7,8 +7,8 @@
   </a>
 </p>
 
-## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&hide_progress=true)
 
 <!--
 **xiamuban/xiamuban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
