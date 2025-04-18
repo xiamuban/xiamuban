@@ -27,6 +27,11 @@
     </p>
 </p>
 
+<h1 align="center"></h1>
+<p align="center">
+    <img height="138px" src="https://github-readme-activity-graph.vercel.app/graph?username=ximuban&theme=github-compact&hide_border=true&area=true" />
+</p>
+
 
 <!--
 **xiamuban/xiamuban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
