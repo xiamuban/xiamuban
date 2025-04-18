@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuban&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact)
 
 <!--
