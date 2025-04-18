@@ -8,9 +8,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/xiamuban"><img src="https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true" alt="xiamu's github stats"></a>
+    <a href="https://github.com/xiamuban"><img src="https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true" alt="xiamu's github stats"/></a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact"/>
+</p>
+
 
 <!--
 **xiamuban/xiamuban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
