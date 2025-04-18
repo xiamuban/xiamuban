@@ -7,7 +7,9 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true&rank_icon=github)
+<p align="center">
+    <a href="https://github.com/xiamuban"><img src="https://github-readme-stats.vercel.app/api?username=xiamuban&show_icons=true" alt="xiamu's github stats"></a>
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuban&layout=compact)
 
 <!--
