@@ -29,7 +29,7 @@
 
 <h1 align="center"></h1>
 <p align="center">
-    <img height="138px" src="https://github-readme-activity-graph.vercel.app/graph?username=xiamuban&theme=github-compact&hide_border=true&area=true" />
+    <img height="220" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiamuban&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 
